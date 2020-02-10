@@ -3,4 +3,6 @@ THP
 
 This is a program created with Ruby on rails.
 
-To start the program please start the server by typing "rails server".
+To visit website http://localhost:3000/home please start the server by typing "rails server".
+
+You can visit the links Team and Contact.
