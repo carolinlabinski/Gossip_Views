@@ -3,6 +3,14 @@ THP
 
 This is a program created with Ruby on rails.
 
-To visit website http://localhost:3000/home please start the server by typing "rails server".
+To start the program please start the server by typing:
 
-You can visit the links Team and Contact.
+bundle install
+rails db:seed
+rails server
+
+http://localhost:3000/home
+
+Please replace votre_name by your first name!
+
+http://localhost:3000/welcome/votre_prenom
